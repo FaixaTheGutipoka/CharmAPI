@@ -1,0 +1,93 @@
+{
+  "classic": {
+    "funny": [
+      "Are you garbage? Because I want to take you out.",
+      "Are you a maze? Because I just got lost in you.",
+      "Are you a habit? Because you’ve quietly become part of my routine.",
+      "I wasn’t looking for anything—then you showed up and ruined that plan.",
+      "You don’t distract me. You refocus me.",
+      "I like my coffee how I like you: strong, warm, and hard to forget.",
+      "You feel like a good decision I haven’t made yet."
+    ],
+    "casual": [
+      "Are you free later, or should I keep pretending I’m chill?"
+    ]
+  },
+  "nerdy": {
+    "funny": [
+      "Are you a bug? Because you just crashed my brain.",
+      "You must be an exception, because I didn’t expect you.",
+      "Are you an edge case? Because you weren’t supposed to happen, but here you are.",
+      "You’re the reason my logical brain stopped compiling."
+    ],
+    "professional": [
+      "From a strategic standpoint, getting to know you seems optimal.",
+      "Are you a pull request? Because I’ve been meaning to approve you.",
+      "You must be asynchronous—every time I think about you, my heart waits.",
+      "I’d never put you in production… because I don’t want to share you."
+    ]
+  },
+  "stem":{
+    "funny": [
+      "Are you a plot twist? Because you just changed everything.",
+      "You must be entropy, because you’re making my world more interesting.",
+      "Are you a wildcard? Because I can’t predict what you’ll do next.",
+      "You’re like a quantum particle—unpredictable and fascinating."
+    ],
+    "professional": [
+      "You must be a catalyst, because you’re speeding up my heart rate.",
+      "Are you a variable? Because you keep changing my perspective.",
+      "You’re like a well-designed experiment—every time I interact with you, I learn something new.",
+      "From a systems perspective, you’re the missing component to my equilibrium."
+    ]
+  },
+  "astronomy":{
+    "funny": [
+      "Are you a black hole? Because I’m irresistibly drawn to you.",
+      "You must be dark matter, because you make up most of my universe.",
+      "Are you a supernova? Because you just lit up my world.",
+      "You’re like a cosmic event—rare, beautiful, and unforgettable."
+    ],
+    "professional": [
+      "From a cosmological perspective, our connection seems inevitable.",
+      "Are you a gravitational wave? Because you’re shaking up my world.",
+      "You must be a singularity, because you’re the center of my attention.",
+      "In the grand scheme of the universe, meeting you feels like destiny."
+    ]
+  },
+  "chaos":{
+    "funny": [
+      "Are you a bug? Because I can’t stop staring at you instead of fixing my life.",
+      "I tried to play it cool, but you clearly disabled that feature.",
+      "Are you Wi-Fi? Because I’m closer when you’re around.",
+      "You’re dangerously close to becoming my favorite bad idea.",
+      "I was productive today… until you existed."
+    ],
+    "subtle": [
+      "I don’t flirt much. I just notice you.",
+      "You’re oddly calming for someone this distracting.",
+      "If timing matters, we should probably talk.",
+      "I enjoy conversations with you more than I let on.",
+      "You feel familiar in a way that doesn’t need explaining."
+    ]
+  },
+  "office":{
+    "funny": [
+      "Are you a spreadsheet? Because you’ve got all my data organized.",
+      "You must be a meeting invite, because I can’t ignore you.",
+      "Are you a coffee break? Because you make my day better.",
+      "You’re like a well-written email—clear, concise, and hard to ignore."
+    ],
+    "professional": [
+      "From a productivity standpoint, getting to know you seems beneficial.",
+      "Are you a project deadline? Because you’re always on my mind.",
+      "You must be a team player, because you complement my strengths.",
+      "I’d never delegate you… because I want to keep you close.",
+      "From an efficiency standpoint, getting to know you seems worthwhile.",
+      "I’d like to schedule more conversations like this.",
+      "You have a surprisingly positive impact on my focus.",
+      "This interaction has exceeded expectations.",
+      "I see long-term potential in continued dialogue."
+    ]
+  }
+}
